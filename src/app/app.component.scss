@@ -1,0 +1,44 @@
+
+
+.container{
+    width: 100% auto;
+    max-width: 625px ;
+    border: 1px solid lightslategrey;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(184, 182, 182);
+    .button{
+        background-color: lightyellow;
+        padding: 5px;
+        float: right;
+        margin-right: 80px;
+    }
+
+.inputarticle{
+        width: 80%;
+        
+        
+    input{
+        width: 80%;
+        margin: 15px;
+        padding:5px;
+        
+     }
+    
+}
+.inputlink{
+    width: 80%;
+    
+
+    input{
+        width: 80%;
+        margin: 10px;
+        padding:5px;
+    }
+
+
+}
+}
